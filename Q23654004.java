@@ -1,6 +1,3 @@
-
-
-
 /****
  *   one method of class OpenHashTable so that the modified class Q00000000
  *   uses quadratic probing.  Quadratic probing is described in Section 10.2 of the textbook on page 419.
